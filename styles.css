@@ -26,9 +26,8 @@ h2{
 		
 }
 .player-two{
-	width:500px;
 	margin-bottom:10px;
-	
+	background-color:rgb(255,255,255);
 }
 .media{
 	background-color:white;
